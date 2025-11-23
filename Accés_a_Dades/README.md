@@ -9,7 +9,7 @@ El objetivo de esta asignatura es trabajar con diferentes métodos de **persiste
 - **UD3_Ejercicio_Obligatorio**  
   Proyecto completo de persistencia de datos en Python, con conversión entre formatos CSV, JSON, XML, HTML y PICKLE. Incluye validación, serialización, deserialización y una interfaz gráfica con Tkinter.
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python 3  
 - Tkinter  
 - BeautifulSoup4  
@@ -20,5 +20,6 @@ El objetivo de esta asignatura es trabajar con diferentes métodos de **persiste
 
 ## Objetivo del repositorio
 Reunir de manera organizada todos los trabajos realizados en la asignatura Accés a Dades, facilitando su consulta y sirviendo como portfolio técnico.
+
 
 
